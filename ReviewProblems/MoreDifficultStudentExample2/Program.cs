@@ -6,7 +6,7 @@ namespace MoreDifficultStudentExample2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+ 
             Student myStudent = new Student(5,"Adam","Ackerman",100000);
             Console.WriteLine(myStudent);
 
